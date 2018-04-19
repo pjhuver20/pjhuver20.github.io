@@ -1,6 +1,4 @@
- //countdown
-
-function countdown(){
+ function countdown(){
 				
  var now = new Date();
 				
@@ -56,3 +54,4 @@ function countdown(){
 
 			
 countdown();
+			
