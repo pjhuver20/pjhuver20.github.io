@@ -54,4 +54,16 @@
 
 			
 countdown();
+
+// google search
+(function() {
+    var cx = '000892604924868262074:n3rezpbarjo';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+
 			
