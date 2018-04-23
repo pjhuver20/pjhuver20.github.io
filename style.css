@@ -12,6 +12,27 @@ google{
    height:88px;
   border-bottom:6px
   solid #d9ba5d;
+  background-color:#350410;
+
+button.gsc-search-button {
+  background-color:#d9ba5d;
+}
+td.gsib_b{
+   background-color:#d9ba5d;
+}
+td#gs_tti50.gsib_a{
+  background-color:#d9ba5d;
+  
+}
+
+input.gsc-input {
+    background-color:#d9ba5d !important;
+    
+}
+
+form.gsc-search-box {background-color:#350410;}
+div.gsc-control-cse {background-color:#350410;}
+
  /*google search--------------------------------*/
 }
 
@@ -32,7 +53,7 @@ body {
 			
    text-align: center;
 			
-   background:url(http://big5kayakchallenge.com/wp-content/uploads/2018/01/best-of-russian-background-search-photos-2018-russian-background.jpg);
+   background-color:#350410;
 			
    border: 1px solid #999;
 			
@@ -43,6 +64,7 @@ body {
 .info {
 			
    font-size: 20px;
+   color:#d9ba5d;
 		
 }
 
