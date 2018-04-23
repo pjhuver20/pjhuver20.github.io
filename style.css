@@ -16,6 +16,8 @@ google{
 }
 button.gsc-search-button {
   background-color:#d9ba5d;
+  margin-bottom:12px;
+  margin-top:15px;
 }
 td.gsib_b{
    background-color:#d9ba5d;
@@ -30,7 +32,9 @@ input.gsc-input {
     
 }
 
-form.gsc-search-box {background-color:#350410;}
+form.gsc-search-box {background-color:#350410;
+height:57px;
+}
 div.gsc-control-cse {background-color:#350410;}
 
  /*google search--------------------------------*/
